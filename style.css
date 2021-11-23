@@ -1,0 +1,7 @@
+/*arriere plan*/
+  body {
+    background:url("https://64.media.tumblr.com/00ae735bad49180027bcea16c1051d85/tumblr_py870tIpE71uzwgsuo1_400.gifv");
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+  }
