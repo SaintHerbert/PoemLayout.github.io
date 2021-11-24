@@ -5,3 +5,18 @@
     background-size:100%;
     background-attachment: fixed;
   }
+
+  p{
+    font-style:italic;
+  }
+
+  #title{
+    text-align:center;
+  }
+
+  #poems{
+    text-align:center;
+    border: 100px solid rgba(255, 0, 0, 0.774);
+    
+
+  }
